@@ -1,7 +1,99 @@
 # Hello there!
 
 # 💫 About Me:
-# Rahul Pradhan — Data Scientist & ML Engineer Portfolio<br><br>Welcome to my data portfolio — a curated collection of analytics, machine learning, and dashboarding projects with real business impact.<br><br>## 🔥 Highlights<br>- End-to-end ML solutions: data, models, evaluation & deployment<br>- Business dashboards with Power BI & Excel<br>- Reproducible code with virtual environments & clear documentation<br><br>## 📌 Featured Projects<br>1. **Customer Churn Prediction (ML Pipeline)**  <br>   - Problem: Predict churn for a telco dataset  <br>   - Tools: Python, scikit-learn, MLflow  <br>   - Results: ROC AUC 0.87, deployed via FastAPI  <br>   - Demo: 📽️ GIF + interactive links<br><br>2. **Sales Analytics Power BI Dashboards**  <br>   - Revenue & KPI visualization across regions<br>   - Drill-down & trend visuals<br><br>...more<br><br>## 🛠 Tech Stack<br>Python | SQL | Scikit-Learn | Pandas | Power BI | Dash/Streamlit | Git/GitHub<br>
+# Rahul Pradhan  
+### Data Scientist | Machine Learning Engineer | Analytics Professional  
+
+📍 Sydney, Australia  
+📧 razulpradhan@live.com  
+🔗 LinkedIn: https://www.linkedin.com/in/rahul-pradhan-b4841770/
+
+---
+
+## 👋 About Me
+
+I am a data science professional with a strong foundation in analytics, machine learning, and business intelligence.  
+My work focuses on turning raw data into actionable insights and building reproducible, end-to-end ML solutions.
+
+With experience in analytics, cybersecurity, and data engineering concepts, I approach problems with both a technical and risk-aware mindset.
+
+---
+
+## 🛠 Technical Stack
+
+### Languages
+Python | SQL | R
+
+### Data & ML
+Pandas | NumPy | Scikit-Learn | XGBoost | Matplotlib | Seaborn | SHAP | MLflow
+
+### Data Engineering & Tools
+PostgreSQL | MySQL | Git | Docker | Jupyter | VS Code
+
+### BI & Analytics
+Power BI | Excel | Data Visualization | KPI Reporting
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 End-to-End Machine Learning Projects
+- Data cleaning & preprocessing
+- Feature engineering
+- Model training & hyperparameter tuning
+- Evaluation using ROC, AUC, Precision-Recall, Confusion Matrix
+- Business insight interpretation
+
+### 🔹 Business Intelligence Dashboards
+- Interactive Power BI dashboards
+- Revenue & KPI tracking
+- Data storytelling for stakeholders
+
+### 🔹 Analytics Case Studies
+- Exploratory data analysis (EDA)
+- Statistical modeling
+- Insight-driven recommendations
+
+---
+
+## 🧠 What I Focus On
+
+✔ Building reproducible ML pipelines  
+✔ Writing clean, modular, maintainable Python code  
+✔ Translating technical outputs into business impact  
+✔ Applying strong evaluation metrics to avoid model bias  
+✔ Continuous improvement & experimentation  
+
+---
+
+## 📊 Current Goals
+
+- Strengthening ML engineering practices (Docker, CI/CD)
+- Deploying models using FastAPI / Streamlit
+- Expanding portfolio with production-style data pipelines
+
+---
+
+## 📈 GitHub Philosophy
+
+This GitHub showcases:
+- Real-world data problems  
+- Structured workflows  
+- Transparent experimentation  
+- Clear documentation  
+
+Every project includes:
+- Problem framing  
+- Methodology  
+- Evaluation metrics  
+- Key insights  
+
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![SQL](https://img.shields.io/badge/SQL-Advanced-orange)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Production%20Focused-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboarding-yellow)
+---
+
 
 
 # 🌐 Socials:
@@ -23,4 +115,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=InsightRahulPra&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+## 🤝 Open To
+
+Data Scientist | Data Analyst | Machine Learning Engineer | Analytics Engineer opportunities
+
+---
+
+⭐ If you find any project interesting, feel free to explore and connect!
